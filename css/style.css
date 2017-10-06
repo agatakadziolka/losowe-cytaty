@@ -1,0 +1,36 @@
+body {
+	background: #373F51;
+}
+main {
+	margin: 0 auto;
+	width: 600px;
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+}
+header {
+	padding-bottom: 50px;
+}
+.box .quote {
+	padding-bottom: 20px;
+}
+.box .author {
+	padding-bottom: 50px;
+}
+button {
+	margin-bottom: 40px;
+	background: #373F51;
+	border: 1px solid #fff;
+	width: 250px;
+	height: 30px;
+	color: #fff;
+}
+.tweet {
+	display: block;
+	background: #373F51;
+	border: 1px solid #fff;
+	width: 250px;
+	height: 30px;
+	margin: 0 auto;
+	line-height: 30px;
+}
