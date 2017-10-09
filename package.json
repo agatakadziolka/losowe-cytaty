@@ -1,12 +1,20 @@
 {
   "name": "aplikacja-cytaty",
   "version": "1.0.0",
-  "description": "",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agatakadziolka/losowe-cytaty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agatakadziolka/losowe-cytaty/issues"
+  },
+  "homepage": "https://github.com/agatakadziolka/losowe-cytaty#readme",
+  "description": ""
 }
